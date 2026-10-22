@@ -1,0 +1,22 @@
+[
+  {
+    "question": "How do I troubleshoot a Kubernetes startup probe failure when a container takes too long to start?",
+    "relevant_docs": {
+      "pods/startup-probe-failed.md": 3,
+      "pods/crashloopbackoff.md": 1,
+      "pods/readiness-probe-failed.md": 1
+    }
+  },
+  {
+    "question": "The Kubernetes API server cannot communicate with a webhook, causing requests involving custom resources to fail. How should I troubleshoot the issue?",
+    "relevant_docs": {
+      "api-server/api-server-conversion-webhook-failed.md": 3,
+      "api-server/api-server-failed-calling-webhook.md": 2,
+      "cert-manager/cert-manager-webhook-not-reachable.md": 1
+    }
+  },
+  {
+    "question": "How can I calculate monthly employee salaries and generate payroll reports using Microsoft Excel?",
+    "relevant_docs": {}
+  }
+]
